@@ -59,7 +59,7 @@
         
         <!-- Hình ảnh minh họa -->
         <section class="highlights">
-            <h2>Đồ uống nổi bật</h2>
+            <h2> nổi bật</h2>
             <div class="highlight-item">
                 <img src="images/espresso.png" alt="Espresso">
                 <h3>Espresso</h3>
